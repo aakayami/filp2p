@@ -1,0 +1,73 @@
+[
+  {
+    "carSize": 773577,
+    "pieceCid": "baga6ea4seaqfc7iq2ielfp5ltdi2rjssnbqmzk52tprdgfiq5uwmzp4b6qawmcq",
+    "pieceSize": 1048576,
+    "payloadCid": "bafybeiaewtpsxkgqy7bp6m3tq2a36e3sqb6wdfcfkofxfqwzgkjt6s7pjm",
+    "contains": {
+      "": {
+        "IsDir": true,
+        "Cid": "bafybeiaewtpsxkgqy7bp6m3tq2a36e3sqb6wdfcfkofxfqwzgkjt6s7pjm"
+      },
+      "image-3.jpg": {
+        "IsDir": false,
+        "Cid": "bafkreihp2cz3pdjklczrff3l3srypauzbk7gilq7jeawdsgjoaayn2ab3m"
+      },
+      "image-4.jpg": {
+        "IsDir": false,
+        "Cid": "bafkreia3s3zqbxmjrkxpoql45olfgows2m2g4vih3map4mws2snwcmd3zy"
+      },
+      "image-5.jpg": {
+        "IsDir": false,
+        "Cid": "bafkreidrpp7fpz4ehfp5ktistofbfmcjefudohkddbbk2kl2l5dj5beecu"
+      }
+    },
+    "dealInfo": {
+      "dealUUID": "7cb8e8fe-ba02-4e4d-ae8c-7fb6e6201eea",
+      "storageProvider": "t017387",
+      "startEpoch": "1469588",
+      "endEpoch": "1987988",
+      "providerCollateral": "0",
+      "publishCID": "",
+      "chainDealID": "",
+      "dealStatus": "Ready to Publish"
+    },
+    "dealInitiated": true,
+    "createdAt": 1711240320031
+  },
+  {
+    "carSize": 911226,
+    "pieceCid": "baga6ea4seaqkrh4ilxcgotx7z7nswvkchoqjovs67n7rwffkatmhgxfpluhschy",
+    "pieceSize": 1048576,
+    "payloadCid": "bafybeienbjuvxlwegvcpxbbmwmzbs2zvra3pjgxml47rwp4kfn5tr4adsm",
+    "contains": {
+      "": {
+        "IsDir": true,
+        "Cid": "bafybeienbjuvxlwegvcpxbbmwmzbs2zvra3pjgxml47rwp4kfn5tr4adsm"
+      },
+      "image-10.jpg": {
+        "IsDir": false,
+        "Cid": "bafkreifuubrx267g6ofgppavwnf6ocyflnoaecng7ka4b77yriiup44a4u"
+      },
+      "image-6.jpg": {
+        "IsDir": false,
+        "Cid": "bafkreiahn53aehoay2jx52xg2wiux3adzornklw7pgkrtiqmvjwuggdrnu"
+      },
+      "image-7.jpg": {
+        "IsDir": false,
+        "Cid": "bafkreicaianmklbwxuczvsgw2zvlj766xc7ikm2ampjwdfawq2pdjxohim"
+      },
+      "image-8.jpg": {
+        "IsDir": false,
+        "Cid": "bafkreigletlbocyifgird5tn3ued77g777d2t2cppcv6gybhzq4yrpzxci"
+      },
+      "image-9.jpg": {
+        "IsDir": false,
+        "Cid": "bafkreidm6hyuihgo3remy7blivjnedn7rz5kxfaldzpephehhlee2nnyfe"
+      }
+    },
+    "dealInfo": null,
+    "dealInitiated": false,
+    "createdAt": 1711241052336
+  }
+]

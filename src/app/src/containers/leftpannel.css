@@ -1,0 +1,19 @@
+.leftpannel{
+    padding-top: 50px;
+}
+
+.pannelbutton{
+    padding-top: 15px;
+    padding-left: 20px;
+    font-size: 16px;
+    &:hover {
+        background-color: #d5d3d3;
+        border-radius: 10px;
+    }
+}
+
+.selected {
+    background-color: #6991d6;
+    border: #6991d6 solid;
+    border-radius: 10px;
+}

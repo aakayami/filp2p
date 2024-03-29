@@ -1,0 +1,19 @@
+    
+.top-bar {
+    height: 40px;
+    background-color: #F8FAFD;
+}
+
+.bottom {
+    display: flex;
+    flex-flow: row;
+}
+.left-pannel {
+    width: 180px;
+    height: calc(100vh - 40px);
+    background-color: #f6f9fe;
+}
+.center-portion {
+    width: calc(100vw - 180px);
+    height: calc(100vh - 40px);
+}

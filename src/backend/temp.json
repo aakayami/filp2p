@@ -1,0 +1,58 @@
+[
+  {
+    "carSize": 1582844,
+    "pieceCid": "baga6ea4seaqet476bbynjmd4mszmkiugagcn2nrmyrp55entoedsj7dqcnlpcjq",
+    "pieceSize": 2097152,
+    "payloadCid": "bafybeifeohnaldk6elr6mbmkglerekwqrszxu7kzvdnw55t447oh4otvjm",
+    "contains": {
+      "": {
+        "IsDir": true,
+        "Cid": "bafybeifeohnaldk6elr6mbmkglerekwqrszxu7kzvdnw55t447oh4otvjm"
+      },
+      "image-1.jpg": {
+        "IsDir": false,
+        "Cid": "bafkreibeuw6yjmok3lye5c4t7v4v2hpxkr5ej66sddute4l62j7qvdmcsq"
+      },
+      "image-2.jpg": {
+        "IsDir": false,
+        "Cid": "bafkreiaenl2tf3bzocbvcpstvfup5m6sjj3c7jsx24fdxervzpsmq7ldva"
+      },
+      "image-3.jpg": {
+        "IsDir": false,
+        "Cid": "bafkreihp2cz3pdjklczrff3l3srypauzbk7gilq7jeawdsgjoaayn2ab3m"
+      },
+      "image-4.jpg": {
+        "IsDir": false,
+        "Cid": "bafkreia3s3zqbxmjrkxpoql45olfgows2m2g4vih3map4mws2snwcmd3zy"
+      },
+      "image-5.jpg": {
+        "IsDir": false,
+        "Cid": "bafkreidrpp7fpz4ehfp5ktistofbfmcjefudohkddbbk2kl2l5dj5beecu"
+      },
+      "image-6.jpg": {
+        "IsDir": false,
+        "Cid": "bafkreiahn53aehoay2jx52xg2wiux3adzornklw7pgkrtiqmvjwuggdrnu"
+      },
+      "image-7.jpg": {
+        "IsDir": false,
+        "Cid": "bafkreicaianmklbwxuczvsgw2zvlj766xc7ikm2ampjwdfawq2pdjxohim"
+      },
+      "image-8.jpg": {
+        "IsDir": false,
+        "Cid": "bafkreigletlbocyifgird5tn3ued77g777d2t2cppcv6gybhzq4yrpzxci"
+      }
+    },
+    "dealInfo": {
+      "dealUUID": "74121155-0896-47c2-b0d2-0aa084f267da",
+      "storageProvider": "t017387",
+      "startEpoch": "1469627",
+      "endEpoch": "1988027",
+      "providerCollateral": "0",
+      "publishCID": "",
+      "chainDealID": "",
+      "dealStatus": "Sealing"
+    },
+    "dealInitiated": true,
+    "createdAt": 1711242408440
+  }
+]

@@ -1,0 +1,20 @@
+.show-files{
+    display: flex;
+    margin-top: 40px;
+    margin-left: 40px;
+}
+
+.icon-box {
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    padding-left: 50px;
+    width: 40px;
+}
+
+.text-staging {
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    width: 80px;
+}

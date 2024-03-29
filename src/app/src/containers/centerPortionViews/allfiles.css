@@ -1,0 +1,19 @@
+.show-files{
+    display: flex;
+    margin-top: 40px;
+    margin-left: 40px;
+}
+
+.show-files-top{
+    display: flex;
+    flex-direction: row-reverse;
+    padding-right: 30px;
+    padding-top: 10px;
+}
+
+/* .icon-box {
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    padding-left: 20px;
+} */
